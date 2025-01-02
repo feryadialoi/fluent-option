@@ -5,7 +5,7 @@
 
     <groupId>dev.feryadialoi</groupId>
     <artifactId>fluent-option</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>fluent-option</name>
     <description>fluent-option</description>
 
